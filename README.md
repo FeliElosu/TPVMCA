@@ -9,4 +9,5 @@ Clase - Jueves 19.00h sincrónica, turno nocturno
 
 **Archivos Entregables - TP - Computación Aplicada**
 
-![TOPOLOGÍA DE LA INFRAESTRUCTURA ARMADA:](https://github.com/FeliElosu/TPVMCA/blob/main/topologia.png?raw=true)
+TOPOLOGÍA DE LA INFRAESTRUCTURA ARMADA
+![](https://github.com/FeliElosu/TPVMCA/blob/main/topologia.png?raw=true)
